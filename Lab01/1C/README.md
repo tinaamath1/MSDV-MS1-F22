@@ -10,7 +10,7 @@ From the three datasets I selected last week, I decided to visualize the materna
 
 I thought that it would interesting to see how United States maternal mortality ratio compares to countries with most desirable maternal care as well as least desireable. Maternal care in this case encapsulates health care, parental leave, and education. The counties I chose were Austria, Finland, Norway, Japan, and the United States. I selected a heat map because I thought this would be a good way to show how the ratio gradually changes over time. The "heat map" has a legend from cool to warm colors to indicate a lower to higher ratio value. The heat map shows change over time. I noticed that even though I labeled each square on the visualization the legend will always have to be referenced in order to understand the ratio for each year. Along with that, I believe this might not capture the story I wish to tell which is how common factors contributing to death like lack of education, and access to care need to dramatically change in countries to ensure a mother's safety and life.  I think it is important to compare countries policies to show what might be working to decrease this ratio. 
 
-![](updatedimages/Screen%20Shot%202022-09-22%20at%2012.20.28%20AM.png)
+![](images/Screen%20Shot%202022-09-22%20at%2012.20.28%20AM.png)
 figma
 
 <h2>Second Sketch</h2>
