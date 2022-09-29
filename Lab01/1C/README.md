@@ -24,3 +24,4 @@ At the bottom of the page I would like to display three cards- education, health
  <h2>Design Mockup</h2>
 
 ![](images/Screen%20Shot%202022-09-22%20at%203.24.47%20AM.png)
+
