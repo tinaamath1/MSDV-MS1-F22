@@ -1,2 +1,2 @@
-# majorstudio1
+# Major Studio 1
 Fall Semester 2022
