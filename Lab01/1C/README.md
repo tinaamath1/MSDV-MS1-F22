@@ -19,7 +19,7 @@ After thinking about it further and our class discussion on Tuesday- I decided t
 
 At the bottom of the page I would like to display three cards- education, health service, and post natal care. These cards will show how mothers and newborns are assisted during the pregnancy process in order to see correlation. When the education, health service, or post natal care card is selected information pertaining to the data will be displayed along with a legend to demarcate which countries have a national policy or offer these services- maybe a book for education, a stethscope for health service, and a pacifier for post natal care. I believe that this will work since the data are yes or no responses. When the cards are clicked the interactive year scale would have to be inactive because the data is linked to certain years. 
 
-![](updatedimages/IMG_0755.jpg)
+![](updatedimages/IMG_0755.jpeg)
  
  <h2>Design Mockup</h2>
 
