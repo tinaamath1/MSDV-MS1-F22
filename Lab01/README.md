@@ -1,5 +1,5 @@
 
-<h1>Lab 01: Quantitative Data</h1> 
+<h1>Project 01: Quantitative Data</h1> 
 
 This segment of the course examines the fundamentals of quantitative data. Students will gain an
 understanding of how data is gathered, the databases and other formats by which it can be stored,
