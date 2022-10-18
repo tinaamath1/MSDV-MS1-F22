@@ -12,4 +12,4 @@ Importance of small-scale fisheries:
 
 ![](images/Untitled-Artwork.jpeg)
 
-
+![](images/UN%20Goal%2014%20Small%20Scale%20Fisheries.jpg)
