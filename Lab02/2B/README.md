@@ -6,7 +6,7 @@ Importance of small-scale fisheries:
 
 - "Over half of the catch in developming countries is produced by the small-scale sub-sector and 90-95 percent of the small-scale landings are destined for local human consumption."
 
--"Large-scale fisheries land more fish, but small-scale fisheries produce more fish for domestic human consumption."
+- "Large-scale fisheries land more fish, but small-scale fisheries produce more fish for domestic human consumption."
 
 ![](images/Screen%20Shot%202022-10-18%20at%201.54.30%20PM.png)
 
