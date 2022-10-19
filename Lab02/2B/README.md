@@ -12,7 +12,11 @@ Importance of small-scale fisheries:
 
 ![](images/Screen%20Shot%202022-10-18%20at%201.54.30%20PM.png)
 
+<h2> Sketch </h2> 
+
 ![](images/Untitled-Artwork.jpeg)
+
+<h2> Web Outline </h2>
 
 ![](images/UN%20Goal%2014%20Small%20Scale%20Fisheries.jpg)
 
