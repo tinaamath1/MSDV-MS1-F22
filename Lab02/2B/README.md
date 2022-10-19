@@ -20,4 +20,4 @@ Importance of small-scale fisheries:
 
 ![](images/UN%20Goal%2014%20Small%20Scale%20Fisheries.jpg)
 
-I don't really have an idea of how to visualize dots this way. The only way that I currently know is to make circle svg elements that I've done in [Data Structures](https://observablehq.com/@tinaamath1/time-based-stick-figure). Once I have cleaned up data, I would assign a radius for the corresponding impact score. 
+I do not have an idea of how to visualize dots this way because there is no labeled y or x axis. The only way that I currently know is to make circle svg elements that I've done in [Data Structures](https://observablehq.com/@tinaamath1/time-based-stick-figure).Once I have cleaned up data, I would assign a radius for the corresponding impact score. 
