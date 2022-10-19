@@ -12,10 +12,8 @@ Importance of small-scale fisheries:
 
 ![](images/Screen%20Shot%202022-10-18%20at%201.54.30%20PM.png)
 
-<h2> Sketch </h2>
 ![](images/Untitled-Artwork.jpeg)
 
-<h2> Web Outline </h2>
-![](images/UN%20Goal%2014%20Small%20Scale%20Fisheries.jpg)
+![]images/UN%20Goal%2014%20Small%20Scale%20Fisheries.jpg
 
 I don't really have an idea of how to visualize dots this way. The only way that I currently know is to make circle svg elements that I've done in [Data Structures](https://observablehq.com/@tinaamath1/time-based-stick-figure). Once I have cleaned up data, I would assign a radius for the corresponding impact score. 
