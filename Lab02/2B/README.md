@@ -13,3 +13,5 @@ Importance of small-scale fisheries:
 ![](images/Untitled-Artwork.jpeg)
 
 ![](images/UN%20Goal%2014%20Small%20Scale%20Fisheries.jpg)
+
+I don't really have an idea of how to visualize dots this way. The only way that I currently know is to make circle svg elements that I've done in [Data Structures](https://observablehq.com/@tinaamath1/time-based-stick-figure). I think that once I clean up the data I can assign 
