@@ -1,4 +1,4 @@
-<h1> Goal 14.1 Life Under Water </h4>
+<h1> Design Mockup </h1>
 
 <h2> Background </h2>
 
