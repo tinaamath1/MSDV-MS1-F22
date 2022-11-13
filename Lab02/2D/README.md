@@ -3,7 +3,11 @@
 
 <p>I found it interesting that qualitative data was converted to quantitative data. I made a visualization in order to see that a bit better. There are 3 variables involved in the score weighting. These three variables are three questions asked in the CCRF questionnaire. For each variable a score was received with a positive or yes answer, whereas a no or unknown would receive no score (0). Each variable has a different weighting as well, .1, .03, and .03 respectively. When all the scores are compiled, it is placed in a band indicating the degree of implementation.</p>
 
-<p>Scores of 0-.2 indicate very low or score 1; .2-.4 is low or score 2; .4-.6 is medium or score 3; .6-.8 is high or score 4; and .8-1.0 is very high or score 5.</p>
+<ul>0-.2 indicate very low or score 1</ul>
+<ul>.2-.4 is low or score 2</ul>
+<ul>.4-.6 is medium or score 3</ul>
+<ul>.6-.8 is high or score 4</ul>
+<ul>.8-1.0 is very high or score 5.</ul>
 
 
 
