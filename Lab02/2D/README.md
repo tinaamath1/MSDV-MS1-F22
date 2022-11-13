@@ -14,6 +14,8 @@
 <p>As a next step, I'm considering showing a visualization of all countries and their scores; potentially a larger bar graph.</p>
 
 
+
+
 <h1> Illustrator </h1>
 
 ![Screen Shot 2022-11-12 at 10 25 39 PM](https://user-images.githubusercontent.com/93090945/201504134-a7921b04-1cd1-42be-9ef1-213c954f9a23.png)
