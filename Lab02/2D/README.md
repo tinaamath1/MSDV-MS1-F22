@@ -9,7 +9,9 @@
 <ul>.6-.8 is high or score 4</ul>
 <ul>.8-1.0 is very high or score 5</ul>
 
+<p>In my visualization the overall bar graph is to display the total degree of implementation score. The bar is broken into three parts otherwise the three variables. Each variable has a corresponding bar chart and visual which displays the sub-variables involed in each variable, also known as questions within questions that were answered yes or no.</p>
 
+<p>As a next step, I'm considering showing a visualization of all countries and their scores; potentially a larger bar graph.</p>
 
 
 <h1> Illustrator </h1>
