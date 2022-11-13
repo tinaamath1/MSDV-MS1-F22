@@ -1,0 +1,298 @@
+ /* page */
+ 
+ .ex-1 svg{
+  width: 4500px;
+  height: 50px;
+  background-color: white;
+}
+
+h1{
+  margin:0%;
+  padding: 0%;
+  text-align: left;
+  font-weight: 500;
+}
+
+.infobold{
+  margin: 0%;
+  padding: 0%;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.info{
+  margin:0%; 
+  padding: 0%;
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+
+.infolight{
+  margin: 0%; 
+  padding: 0%;
+  margin-top:0%;
+  margin-bottom: 0%;
+  font-size: small;
+  color: gray;
+}
+
+
+
+.ex{
+    margin-bottom: 80px;
+  }
+ 
+
+body{
+    background: #FEFAF1;
+    color: black;
+    /* margin: 0 200px; */
+    font-family: 'Figtree';
+}
+
+
+
+
+/* overall bar static */
+
+
+ .bar{
+  transform: translate(-100px,0px);
+}
+
+.labels.x-labels{
+  font-size: 12px; 
+  color: lightgray
+}
+
+.var1bar:hover,
+.var1bar:focus {
+  fill: lightgray !important;
+}
+
+.var1bar {
+  fill: #3598D5;
+  transition: fill .3s ease;
+  cursor: pointer;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+.var2bar {
+  fill: #55ACB1;
+  transition: fill .3s ease;
+  cursor: pointer;
+}
+
+.var3bar {
+  fill: #6FB688;
+  transition: fill .3s ease;
+  cursor: pointer;
+}
+
+.var2bar:hover,
+.var2bar:focus {
+  fill: lightgray !important;
+}
+
+.var3bar:hover,
+.var3bar:focus {
+  fill: lightgray !important;
+} */
+
+.chart bands.labels {
+  text-anchor:middle
+}
+
+.bands.labels{
+  font-size: 12px
+}
+
+
+
+/* bar description */
+
+
+.description {  
+  font-weight: bold;
+  font-size: 20px;
+  position:relative;
+  top: 100px;
+}
+
+.variable_1 {
+    top: -120px; 
+}
+
+/* buttons */
+
+/* button {
+  background-color: #3598D5; 
+  border: #3598D5;
+  width: 100px;
+  height: 15px;
+  margin-left: -566px;
+  margin-top: 150px;
+  position: absolute;
+} */
+
+/* 
+button2 {
+  background-color: #55ACB1; 
+  border: #3598D5;
+  width: 100px;
+  height: 15px;
+  margin-left: -566px;
+  margin-top: 131px;
+  position: absolute;
+}
+
+
+button3 {
+  background-color: #6FB688; 
+  border: #3598D5;
+  width: 100px;
+  height: 15px;
+  margin-left: -566px;
+  margin-top: 131px;
+  position: absolute; */
+/* } */
+
+
+
+/* variable 1, 2, 3 chart */
+
+
+.yes1{
+  fill: #3598D5;
+  transition: fill .3s ease;
+  cursor: pointer;
+  
+  
+}
+
+.yes2{
+  fill: #55ACB1;
+  transition: fill .3s ease; 
+  cursor:pointer; 
+
+}
+
+.yes3{
+  fill: #6FB688;
+  transition: fill .3s ease;
+  cursor: pointer;
+  
+  
+}
+
+.yestext{
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.no{
+  fill: lightgray;
+  transition: fill .3s ease;
+  cursor: pointer;
+
+}
+
+
+.sub-variables{
+
+  font-size: 11px;
+  font-weight: bold;
+}
+
+
+.var1descrip {
+  font-size: 12px;
+}
+
+.var2descrip {
+  font-size: 12px;
+}
+
+.var3descrip {
+  font-size: 12px;
+}
+
+
+/*button css 
+
+ .btn-group {
+  margin-bottom: 30px;
+  display: flex;
+}
+.btn-group {
+  text-transform:capitalize; 
+  font-size: 11px;
+  cursor: pointer; 
+  margin-right: 100px; 
+  background-color: transparent; 
+  padding: 10px 20 px; 
+  outline: none; 
+  border-radius: 5px;
+  transition: background-color .1s ease, color .2s ease;
+} */
+
+
+/*Clear floats (clearfix hack)*/
+/* .btn-group:after {
+  content: "";
+  clear: both;
+  display: table;
+} */
+
+/* Add a background color on hover */
+ /* .btn-group button:hover {
+  background-color: lightgray;
+} 
+
+.overall {
+  border-color: #032A52;
+  border-radius: 10px;
+  background-color: transparent;
+}
+
+.var_1 {  
+  border-color: #3598D5;
+  border-radius: 10px;
+  background-color: transparent;
+}
+
+.var_2 {  
+  border-color: #55ACB1;
+  border-radius: 10px;
+  background-color: transparent;
+}
+
+.var_3 {  
+  border-color: #6FB688;
+  border-radius: 10px;
+  background-color: transparent;
+}
+
+figcaption {
+  margin-bottom: 5px;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+} */
+
+
+
+/* .updated_variable_1{
+  transform: translate(600px,0px);
+} */
+
+
+/* section {
+    margin: auto;
+} */
+
+
+
