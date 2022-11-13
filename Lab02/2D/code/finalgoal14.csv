@@ -1,0 +1,413 @@
+2018,2019,2022,countries
+1,1,1,Nepal
+3,,2,Azerbaijan
+,2,2,China
+3,,2,Dominica
+3,3,2,Guyana
+,1,2,Namibia
+4,3,2,Palau
+4,,2,Tajikistan
+2,,3,Armenia
+4,4,3,Caribbean
+2,,3,Caucasus and Central Asia
+3,2,3,Central and Southern Asia
+,,3,Equatorial Guinea
+3,3,3,Eritrea
+4,3,3,Landlocked developing countries (LLDCs)
+3,,3,Malaysia
+4,,3,Middle Africa
+,5,3,Montenegro
+4,2,3,Southern Asia
+3,2,3,Southern Asia (excluding India)
+4,4,4,Africa
+4,4,4,Americas
+,2,4,Argentina
+3,4,4,Asia
+5,,4,Burundi
+4,,4,Canada
+3,,4,Central Asia
+,,4,Congo
+,,4,Cook Islands
+4,4,4,Developing regions
+4,,4,Dominican Republic
+4,5,4,Eastern Africa
+4,4,4,Eastern and South-Eastern Asia
+3,4,4,Eastern Asia
+4,,4,Faroe Islands
+3,4,4,Guatemala
+5,4,4,Honduras
+4,,4,Iceland
+,4,4,India
+4,4,4,Latin America and the Caribbean
+4,4,4,Least Developed Countries (LDCs)
+,4,4,Mauritius
+4,3,4,Micronesia
+5,,4,Nicaragua
+4,5,4,Northern Africa and Western Asia
+3,,4,Russian Federation
+4,4,4,Saint Kitts and Nevis
+5,4,4,Saint Vincent and the Grenadines
+4,,4,Seychelles
+4,4,4,Small island developing States (SIDS)
+4,4,4,South America
+4,4,4,Sub-Saharan Africa
+4,,4,Sub-Saharan Africa (inc. Sudan)
+4,4,4,Trinidad and Tobago
+,,4,United Arab Emirates
+4,,4,United Kingdom of Great Britain and Northern Ireland
+3,5,4,Western Asia
+3,5,5,Albania
+5,5,5,Antigua and Barbuda
+4,4,5,Austria
+3,,5,Bangladesh
+4,4,5,Belgium
+5,5,5,Belize
+,,5,Brazil
+4,4,5,Bulgaria
+5,5,5,Cabo Verde
+5,5,5,Central America
+5,5,5,Chile
+,5,5,Colombia
+,5,5,Costa Rica
+5,5,5,Côte d'Ivoire
+4,4,5,Croatia
+5,5,5,Cuba
+4,4,5,Cyprus
+4,4,5,Czechia
+4,4,5,Denmark
+4,4,5,"Developed regions (Europe, Cyprus, Israel, Northern America, Japan, Australia & New Zealand)"
+4,4,5,Eastern Europe
+,5,5,Ecuador
+5,,5,El Salvador
+4,4,5,Estonia
+4,4,5,Europe
+4,4,5,Europe and Northern America
+4,,5,Finland
+4,4,5,France
+4,4,5,Germany
+5,,5,Ghana
+4,4,5,Greece
+4,4,5,Hungary
+5,,5,Indonesia
+4,4,5,Ireland
+4,,5,Italy
+4,5,5,Japan
+4,4,5,Latvia
+4,4,5,Lithuania
+4,,5,Luxembourg
+5,5,5,Malawi
+4,4,5,Malta
+,,5,Marshall Islands
+5,5,5,Mexico
+5,5,5,Morocco
+,3,5,Nauru
+4,4,5,Netherlands
+4,4,5,Northern Europe
+3,4,5,Oceania
+4,4,5,Oceania (exc. Australia and New Zealand)
+,5,5,Panama
+5,5,5,Peru
+5,4,5,Philippines
+4,4,5,Poland
+3,5,5,Polynesia
+4,4,5,Portugal
+4,4,5,Romania
+4,5,5,Samoa
+4,4,5,Slovakia
+4,4,5,Slovenia
+4,4,5,Solomon Islands
+4,4,5,South-Eastern Asia
+4,4,5,Southern Europe
+4,4,5,Spain
+4,4,5,Suriname
+4,4,5,Sweden
+5,5,5,Thailand
+5,5,5,Türkiye
+5,,5,United Republic of Tanzania
+,,5,Uzbekistan
+4,5,5,Venezuela (Bolivarian Republic of)
+4,4,5,Western Africa
+4,5,5,"Western Asia (exc. Armenia, Azerbaijan, Cyprus, Israel and Georgia)"
+4,4,5,Western Europe
+3,4,5,World
+,,5,Yemen
+,,5,Zambia
+N,N,N,Åland Islands
+N,N,N,American Samoa
+N,N,N,Anguilla
+N,N,N,Aruba
+N,N,N,Australia
+N,N,N,Bermuda
+N,N,N,"Bonaire, Sint Eustatius and Saba"
+N,NaN,N,Bosnia and Herzegovina
+N,N,N,British Indian Ocean Territory
+N,N,N,British Virgin Islands
+N,N,N,Cayman Islands
+N,N,N,Channel Islands
+N,N,N,"China, Hong Kong Special Administrative Region"
+N,N,N,"China, Macao Special Administrative Region"
+N,N,N,Christmas Island
+N,N,N,Cocos (Keeling) Islands
+N,N,N,Curaçao
+N,N,N,Falkland Islands (Malvinas)
+N,N,N,French Guiana
+N,N,N,French Polynesia
+N,N,N,French Southern Territories
+N,N,N,Gibraltar
+N,N,N,Greenland
+N,N,N,Guadeloupe
+N,N,N,Guam
+N,N,N,Guernsey
+N,N,N,Heard Island and McDonald Islands
+N,N,N,Holy See
+N,N,N,Isle of Man
+N,N,N,Jersey
+N,N,N,Kuwait
+N,N,N,Liechtenstein
+N,N,N,Martinique
+N,N,N,Mayotte
+N,N,N,Montserrat
+N,N,N,New Caledonia
+,NaN,N,Niger
+N,N,N,Norfolk Island
+N,N,N,Northern Mariana Islands
+N,N,N,Norway
+N,N,N,Pitcairn
+N,N,N,Puerto Rico
+N,N,N,Réunion
+N,N,N,Saint Barthélemy
+N,N,N,Saint Helena
+N,N,N,Saint Martin (French Part)
+N,N,N,Saint Pierre and Miquelon
+N,N,N,Singapore
+N,N,N,Sint Maarten (Dutch part)
+N,N,N,South Georgia and the South Sandwich Islands
+N,N,N,State of Palestine
+N,N,N,Svalbard and Jan Mayen Islands
+N,N,N,Turks and Caicos Islands
+NaN,,N,Ukraine
+N,N,N,United States Minor Outlying Islands
+N,N,N,United States Virgin Islands
+N,N,N,Wallis and Futuna Islands
+N,N,N,Western Sahara
+NaN,,NaN,Afghanistan
+NaN,NaN,NaN,Algeria
+N,NaN,NaN,Andorra
+NaN,,NaN,Angola
+,NaN,NaN,Australia and New Zealand
+,NaN,NaN,Bahamas
+NaN,NaN,NaN,Bahrain
+NaN,NaN,NaN,Barbados
+NaN,,NaN,Belarus
+,NaN,NaN,Benin
+,NaN,NaN,Bhutan
+NaN,,NaN,Bolivia (Plurinational State of)
+,NaN,NaN,Botswana
+NaN,NaN,NaN,Brunei Darussalam
+,NaN,NaN,Burkina Faso
+NaN,,NaN,Cambodia
+,NaN,NaN,Cameroon
+NaN,NaN,NaN,Central African Republic
+,NaN,NaN,Chad
+N,NaN,NaN,Comoros
+NaN,,NaN,Democratic People's Republic of Korea
+NaN,NaN,NaN,Democratic Republic of the Congo
+NaN,NaN,NaN,Djibouti
+,NaN,NaN,Eastern Asia (excluding Japan and China)
+,,NaN,Eastern Asia (excluding Japan)
+NaN,NaN,NaN,Egypt
+,,NaN,Eswatini
+,NaN,NaN,Ethiopia
+,,NaN,Fiji
+NaN,NaN,NaN,Gabon
+,NaN,NaN,Gambia
+,,NaN,Georgia
+NaN,,NaN,Grenada
+,,NaN,Guinea
+NaN,NaN,NaN,Guinea-Bissau
+NaN,NaN,NaN,Haiti
+,NaN,NaN,Iran (Islamic Republic of)
+NaN,N,NaN,Iraq
+NaN,NaN,NaN,Israel
+,,NaN,Jamaica
+NaN,NaN,NaN,Jordan
+NaN,,NaN,Kazakhstan
+NaN,,NaN,Kenya
+NaN,,NaN,Kiribati
+,,NaN,Kyrgyzstan
+NaN,,NaN,Lao People's Democratic Republic
+,,NaN,Lebanon
+NaN,NaN,NaN,Lesotho
+NaN,NaN,NaN,Liberia
+,NaN,NaN,Libya
+,,NaN,Madagascar
+,,NaN,Maldives
+,,NaN,Mali
+,NaN,NaN,Mauritania
+,NaN,NaN,Melanesia
+N,NaN,NaN,Micronesia (Federated States of)
+NaN,NaN,NaN,Monaco
+NaN,,NaN,Mongolia
+NaN,NaN,NaN,Mozambique
+,,NaN,Myanmar
+,,NaN,New Zealand
+NaN,NaN,NaN,Nigeria
+NaN,NaN,NaN,Niue
+NaN,,NaN,North Macedonia
+,NaN,NaN,Northern Africa
+,NaN,NaN,Northern Africa (exc. Sudan)
+,NaN,NaN,Northern America
+,,NaN,Oman
+,,NaN,Pakistan
+NaN,NaN,NaN,Papua New Guinea
+NaN,NaN,NaN,Paraguay
+NaN,NaN,NaN,Qatar
+,NaN,NaN,Republic of Korea
+NaN,,NaN,Republic of Moldova
+NaN,NaN,NaN,Rwanda
+NaN,NaN,NaN,Saint Lucia
+NaN,NaN,NaN,San Marino
+,NaN,NaN,Sao Tome and Principe
+NaN,,NaN,Saudi Arabia
+,NaN,NaN,Senegal
+NaN,,NaN,Serbia
+,NaN,NaN,Sierra Leone
+,NaN,NaN,Somalia
+N,NaN,NaN,South Africa
+NaN,NaN,NaN,South Sudan
+,,NaN,Southern Africa
+,NaN,NaN,Sri Lanka
+,NaN,NaN,Sudan
+,,NaN,Switzerland
+NaN,NaN,NaN,Syrian Arab Republic
+NaN,NaN,NaN,Timor-Leste
+NaN,NaN,NaN,Togo
+NaN,N,NaN,Tokelau
+,,NaN,Tonga
+NaN,NaN,NaN,Tunisia
+NaN,NaN,NaN,Turkmenistan
+NaN,NaN,NaN,Tuvalu
+NaN,,NaN,Uganda
+NaN,NaN,NaN,United States of America
+,,NaN,Uruguay
+,NaN,NaN,Vanuatu
+,,NaN,Viet Nam
+,NaN,NaN,Zimbabwe
+,2,,Afghanistan
+,5,,Angola
+NaN,,,Argentina
+,N,,Armenia
+3,,,Australia and New Zealand
+,NaN,,Azerbaijan
+4,,,Bahamas
+,NaN,,Bangladesh
+,3,,Belarus
+4,,,Benin
+3,,,Bhutan
+,3,,Bolivia (Plurinational State of)
+4,,,Botswana
+NaN,NaN,,Brazil
+4,,,Burkina Faso
+,NaN,,Burundi
+,5,,Cambodia
+4,,,Cameroon
+,NaN,,Canada
+,NaN,,Caucasus and Central Asia
+,NaN,,Central Asia
+5,,,Chad
+NaN,,,China
+NaN,,,Colombia
+NaN,NaN,,Congo
+NaN,NaN,,Cook Islands
+NaN,,,Costa Rica
+,NaN,,Democratic People's Republic of Korea
+,NaN,,Dominica
+,NaN,,Dominican Republic
+2,,,Eastern Asia (excluding Japan and China)
+2,3,,Eastern Asia (excluding Japan)
+NaN,,,Ecuador
+,NaN,,El Salvador
+NaN,N,,Equatorial Guinea
+2,3,,Eswatini
+4,,,Ethiopia
+,NaN,,Faroe Islands
+5,,,Fiji
+,NaN,,Fiji
+,NaN,,Finland
+5,,,Gambia
+1,,,Georgia
+,NaN,,Georgia
+,NaN,,Ghana
+,4,,Grenada
+4,,,Guinea
+,NaN,,Guinea
+,NaN,,Iceland
+NaN,,,India
+,NaN,,Indonesia
+4,,,Iran (Islamic Republic of)
+,NaN,,Italy
+2,5,,Jamaica
+,1,,Kazakhstan
+,5,,Kenya
+,2,,Kiribati
+3,,,Kyrgyzstan
+,NaN,,Kyrgyzstan
+,4,,Lao People's Democratic Republic
+3,4,,Lebanon
+3,,,Libya
+,NaN,,Luxembourg
+3,3,,Madagascar
+,NaN,,Malaysia
+4,2,,Maldives
+5,3,,Mali
+NaN,NaN,,Marshall Islands
+4,,,Mauritania
+NaN,,,Mauritius
+4,,,Melanesia
+,NaN,,Middle Africa
+,4,,Mongolia
+NaN,,,Montenegro
+4,5,,Myanmar
+N,,,Namibia
+NaN,,,Nauru
+3,3,,New Zealand
+,NaN,,Nicaragua
+5,,,Niger
+,2,,North Macedonia
+4,,,Northern Africa
+4,,,Northern Africa (exc. Sudan)
+4,,,Northern America
+5,5,,Oman
+2,4,,Pakistan
+NaN,,,Panama
+2,,,Republic of Korea
+,NaN,,Republic of Moldova
+,NaN,,Russian Federation
+5,,,Sao Tome and Principe
+,5,,Saudi Arabia
+5,,,Senegal
+,4,,Serbia
+,NaN,,Seychelles
+5,,,Sierra Leone
+5,,,Somalia
+3,2,,Southern Africa
+4,,,Sri Lanka
+,NaN,,Sub-Saharan Africa (inc. Sudan)
+4,,,Sudan
+N,N,,Switzerland
+,NaN,,Tajikistan
+2,5,,Tonga
+,5,,Uganda
+,2,,Ukraine
+NaN,,,United Arab Emirates
+,NaN,,United Arab Emirates
+,NaN,,United Kingdom of Great Britain and Northern Ireland
+,NaN,,United Republic of Tanzania
+5,4,,Uruguay
+NaN,NaN,,Uzbekistan
+3,,,Vanuatu
+4,4,,Viet Nam
+NaN,N,,Yemen
+,NaN,,Zambia
+NaN,,,Zambia
+4,,,Zimbabwe
