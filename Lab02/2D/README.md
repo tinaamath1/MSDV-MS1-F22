@@ -1,3 +1,12 @@
+<h1> Process </h1>
+<p>After initial sketch, mockup, and second iteration- I thought that it was best to focus this visualization on how qualitative data is made into quantitative data. Data from UN's SDG Goal 14.b is used as a goal indicator for Life Below water. These data are collected in order to measure whether a country has legal framework or policies that protect small scale fisheries which provide over half of fish catch in developing countries. The data tells us that each country has a degree of implementation score from 1-5. What this means is that countries who have answered to FAO's Code of Conduct for Responsible Fisheries (CCRF) questionaire receive a score based on their answers. However, the excel data does not show how these numbers are produced, rather all we see is a score of very low implementation (1) - very high implementation (5).</p>
+
+<p>I found it interesting that qualitative data was converted to quantitative data. I made a visualization in order to see that a bit better. There are 3 variables involved in the score weighting. These three variables are three questions asked in the CCRF questionnaire. For each variable a score was received with a positive or yes answer, whereas a no or unknown would receive no score (0). Each variable has a different weighting as well, .1, .03, and .03 respectively. When all the scores are compiled, it is placed in a band indicating the degree of implementation.</p>
+
+<p>Scores of 0-.2 indicate very low or score 1; .2-.4 is low or score 2; .4-.6 is medium or score 3; .6-.8 is high or score 4; and .8-1.0 is very high or score 5.</p>
+
+
+
 
 <h1> Illustrator </h1>
 
