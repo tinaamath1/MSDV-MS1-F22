@@ -7,7 +7,7 @@
 <ul>.2-.4 is low or score 2</ul>
 <ul>.4-.6 is medium or score 3</ul>
 <ul>.6-.8 is high or score 4</ul>
-<ul>.8-1.0 is very high or score 5.</ul>
+<ul>.8-1.0 is very high or score 5</ul>
 
 
 
