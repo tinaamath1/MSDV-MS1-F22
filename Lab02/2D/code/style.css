@@ -56,10 +56,14 @@ body{
 
 
 /* overall bar static */
-
+.static{
+  /* background-color: purple; */
+}
 
  .bar{
   transform: translate(-100px,0px);
+  height: 100%;
+  width: 100%;
 }
 
 .labels.x-labels{
@@ -122,6 +126,9 @@ body{
   top: 100px;
 }
 
+/* .variable_1 {
+    top: -120px; 
+} */
 
 /* buttons */
 
