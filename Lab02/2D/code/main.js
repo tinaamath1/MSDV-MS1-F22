@@ -1,3 +1,69 @@
+let body = document.querySelector("body")
+// let var1bar = document.querySelector(".var1bar")
+let description = document.querySelector(".description")
+let interactive_1 = document.querySelector(".interactive_1")
+// var1bar.addEventListener("click",function(){
+//     description.style.display="none"
+//     interactive_1.style.display="block"
+//     interactive_2.style.display="none"
+//     interactive_3.style.display="none"
+// })
+
+
+// var2bar 
+
+// let var2bar = document.querySelector(".var2bar")
+let interactive_2 = document.querySelector(".interactive_2")
+// var2bar.addEventListener("click",function(){
+//     description.style.display="none"
+//     interactive_2.style.display="block"
+//     interactive_1.style.display="none"
+//     interactive_3.style.display="none"
+// })
+
+// var3bar
+
+// let var3bar = document.querySelector(".var3bar")
+let interactive_3 = document.querySelector(".interactive_3")
+// var3bar.addEventListener("click",function(){
+//     description.style.display="none"
+//     interactive_3.style.display="block"
+//     interactive_1.style.display="none"
+//     interactive_2.style.display="none"
+// })
+
+interactive_1.style.display="none"
+interactive_2.style.display="none"
+interactive_3.style.display="none"
+
+body.addEventListener("click",function(e){
+    if (!e.target.classList.contains('var1bar')&&!e.target.classList.contains('var2bar')&&!e.target.classList.contains('var3bar')) {
+        description.style.display="block"
+        interactive_3.style.display="none"
+        interactive_1.style.display="none"
+        interactive_2.style.display="none"
+    }
+    else if(e.target.classList.contains('var1bar')){
+        description.style.display="none"
+        interactive_1.style.display="block"
+        interactive_2.style.display="none"
+        interactive_3.style.display="none"
+    }
+
+    else if(e.target.classList.contains('var2bar')){
+        description.style.display="none"
+        interactive_2.style.display="block"
+        interactive_1.style.display="none"
+        interactive_3.style.display="none"
+    }
+
+    else if(e.target.classList.contains('var3bar')){
+        description.style.display="none"
+        interactive_3.style.display="block"
+        interactive_1.style.display="none"
+        interactive_2.style.display="none"
+    }
+})
 
 
 
