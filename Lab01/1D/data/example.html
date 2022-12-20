@@ -78,7 +78,7 @@ var colorScale = d3.scaleThreshold()
 
 var promises = []
 promises.push(d3.json("https://raw.githubusercontent.com/holtzy/D3-graph-gallery/master/DATA/world.geojson"))
-promises.push(d3.csv("https://raw.githubusercontent.com/tinaamath1/majorstudio1d/main/data/2017_mortality_parse.csv", function(d) { data.set(d.geoAreaName, +d.value); }))
+promises.push(d3.csv("https://raw.githubusercontent.com/tinaamath1/majorstudio1/main/Lab01/1D/data/2017_mortality_parse.csv", function(d) { data.set(d.geoAreaName, +d.value); }))
 
 
 myDataPromises = Promise.all(promises).then(function(topo) {
