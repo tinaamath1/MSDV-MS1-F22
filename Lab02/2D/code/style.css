@@ -61,11 +61,14 @@ body{
 }
 
  .bar{
-  transform: translate(-100px,0px);
+  transform: translate(10px,0px);
   height: 100%;
   width: 100%;
 }
 
+.scale_lines{
+  font-size: 12px;
+}
 .labels.x-labels{
   font-size: 12px; 
   color: lightgray
@@ -176,6 +179,7 @@ button3 {
   
   
 }
+
 
 .yes2{
   fill: #55ACB1;
