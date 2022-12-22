@@ -10,17 +10,19 @@
 
 <body>
   
-
+<div class="introtext">
   <h1>How are policies for small scale fisheries measured?</h1>
   <div class="infobold">
   <p>Small scale fisheries are critical to livelihood and food security throughout the world. Yet, they are often overlooked by policymakers. </p>
   </div>
   <div class="info">
-  <p>UN SDG Goal 14.b measures access to resources and markets for small-scale fisheries based on a country's response to three variables.</p>
+  <p>UN SDG Goal 14.b measures access to resources and markets for small-scale fisheries based on a country's response to three questions given on a questionaire by the FAO'S Code of Conduct for Responsible Fisheries. The data are collected in order to measure whether a country has legal framework or policies that protect small scale fisheries which provide over half of fish catch in developing countries. The data tells us that each country has a degree of implementation score from 1-5, otherwise very low to very high. This visualization is a tool to show how those qualitiative answers are quanitified. </p>
   <p>Hover and click on the variables below to learn how the UN measures access to resources for a country. </p>
 </div>
 <div class="infolight">
   <p>This is fictious data to depict the weighting of qualitative data. The bar chart below shows a country's potential overall degree of implementation score.</p>
+  <p>Each variable has a unique weighting based on how important this variable is to aiding small scale fisheries.</p>
+</div>
 </div>
 
 
@@ -45,7 +47,7 @@
  
   <div class="static" style="width:50%; height: 100%; float: left;"> 
     <!-- <section class="bar"> -->
-  <svg class="bar" style= "height: 1500px; width:600px">
+  <svg class="bar" style= "height: 1500px; width:650px">
 
 
     <g class="labels x-labels">
@@ -65,15 +67,39 @@
       <text x="555" y="88">Very High (5)</text>
     </g>
 
-      <line x1="150" y1="75" x2="150" y2="225" stroke="lightgray"></line>
-      <line x1="250" y1="75" x2="250" y2="225" stroke="lightgray"></line>
-      <line x1="350" y1="75" x2="350" y2="225" stroke="lightgray"></line>
-      <line x1="450" y1="75" x2="450" y2="225" stroke="lightgray"></line>
-      <line x1="550" y1="75" x2="550" y2="225" stroke="lightgray"></line>
-      <line x1="650" y1="75" x2="650" y2="225" stroke="lightgray"></line>  
-      <rect  class="var1bar" width="100" height="15" x= "150" y= "150"></rect>
-      <rect class="var2bar"  width="75.5" height="15" x= "250" y="150"></rect>
-      <rect class="var3bar"  width="150" height="15" x="325" y="150"></rect> 
+    <g class= "scale label">
+      <text x="10" y="280">Degree of</text>
+      <text x="10" y="300">Implementation</text>
+      <text x="10" y="320">Score</text>
+    </g>
+
+    <g class="scale_lines">
+      <line x1="150" y1="315" x2="650" y2="315" stroke="black"></line>
+      <text x="155" y="305">Very Low (1)</text>
+      <line x1="150" y1="280" x2="150" y2="315" stroke="gray"></line>
+      <text x="270" y="305">Low (2)</text>
+      <line x1="250" y1="280" x2="250" y2="315" stroke="gray"></line>
+      <text x="360" y="305">Medium (3)</text>
+      <line x1="350" y1="280" x2="350" y2="315" stroke="gray"></line>
+      <text x="470" y="305">High (4)</text>
+      <line x1="450" y1="280" x2="450" y2="315" stroke="gray"></line>
+      <text x="555" y="305">Very High (5)</text>
+      <line x1="550" y1="280" x2="550" y2="315" stroke="gray"></line>
+      <line x1="650" y1="280" x2="650" y2="315" stroke="gray"></line>
+    </g>
+
+    <line x1="150" y1="75" x2="150" y2="225" stroke="lightgray"></line>
+    <line x1="250" y1="75" x2="250" y2="225" stroke="lightgray"></line>
+    <line x1="350" y1="75" x2="350" y2="225" stroke="lightgray"></line>
+    <line x1="450" y1="75" x2="450" y2="225" stroke="lightgray"></line>
+    <line x1="550" y1="75" x2="550" y2="225" stroke="lightgray"></line>
+    <line x1="650" y1="75" x2="650" y2="225" stroke="lightgray"></line>  
+    <rect  class="var1bar" width="100" height="20" x= "150" y= "150"></rect>
+    <!-- <text class="variable1hover" x="170" y="180">Variable 1</text> -->
+    <rect class="var2bar"  width="75.5" height="20" x= "250" y="150"></rect>
+    <rect class="var3bar"  width="150" height="20" x="325" y="150"></rect> 
+
+
   </svg>
   </div>
 
@@ -182,7 +208,7 @@
     </g>
 
     <g>
-     <text class="sub-variables" x="300" y="110">Sub-variables</text> 
+    <text class="sub-variables" x="300" y="110">Sub-variables</text> 
     <text class= "sub-variables" x="400" y="110">Law</text>
     <text class= "sub-variables" x="400" y="160">Regulation</text>
     <text class= "sub-variables" x="400" y="210">Policy</text>
