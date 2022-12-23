@@ -1,0 +1,19 @@
+map {
+    background: black;
+}
+
+
+tooltip {
+    position: absolute;
+    padding: 10px; 
+    background-color: black;
+    color: white;
+    visibility: hidden;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+
